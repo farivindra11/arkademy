@@ -9,3 +9,8 @@
 5. menggunakan function
 
 6. membuat data base dengan php my admin dan tampilan menggunakan bootsrap 4
+
+<img width="630" alt="projek" src="https://user-images.githubusercontent.com/58900473/73122775-3cd13800-3fbb-11ea-89ef-87c59607693c.png">
+
+<img width="701" alt="project" src="https://user-images.githubusercontent.com/58900473/73122787-56727f80-3fbb-11ea-91f2-a6786ab9cc1f.png">
+
